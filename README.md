@@ -35,37 +35,61 @@ I used 2 x 2mm pitch 2x12 24 pin flat IDC ribbon cable. Disassemble one cable & 
 
 ![Version 1 Start](http://img.marzavec.com/ESP12-FlashRig-1-2.jpg "amidoingitrite-2.jpg")
 
+amidoingitrite-2.jpg
+
 
 ![Version 1 Ready](http://img.marzavec.com/ESP12-FlashRig-3-2.jpg "Aligned using lab grade popsicle stick lyka pro")
+
+Aligned using lab grade popsicle stick lyka pro
 
 
 ![Version 1 Wiring](http://img.marzavec.com/ESP12-FlashRig-4-2.jpg "Testing continuity with 3d printed brace")
 
+Testing continuity with 3d printed brace
+
 
 ![Version 1 Final](http://img.marzavec.com/ESP12-FlashRig-5-2.jpg "Successful flash & test!")
+
+Successful flash & test!
 
 
 ![Version 2 Start](http://img.marzavec.com/ESP12-FlashRig-6-2.jpg "Started version 2 after the 3d printed brace wore out- this is a much better prototype")
 
+Started version 2 after the 3d printed brace wore out- this is a much better prototype
+
 
 ![Version 2 View](http://img.marzavec.com/ESP12-FlashRig-7-2.jpg "You can see the concept of how things will be wired in the end")
+
+You can see the concept of how things will be wired in the end
 
 
 ![Version 2 Print](http://img.marzavec.com/ESP12-FlashRig-8-2.jpg "Digitalized the version 2 frame, this is the first print")
 
+Digitalized the version 2 frame, this is the first print
+
 
 ![Version 2 Point 0](http://img.marzavec.com/ESP12-FlashRig-10-2.jpg "Checked dimensions to make sure everything would fit")
+
+Checked dimensions to make sure everything would fit
 
 
 ![Version 2 Point 1](http://img.marzavec.com/ESP12-FlashRig-11-2.jpg "Added left and right braces & soldered everything together")
 
+Added left and right braces & soldered everything together
+
 
 ![Version 2 Final](http://img.marzavec.com/ESP12-FlashRig-12-2.jpg "Final design with chip")
+
+Final design with chip
 
 
 ![Version 2 Wired up](http://img.marzavec.com/ESP12-FlashRig-13-2.jpg "Final design wired into flashing circuit")
 
+Final design wired into flashing circuit
+
 
 ![Version 2 Who am I to argue?](http://img.marzavec.com/ESP12-FlashRig-14-2.jpg "Banana for scale because the internet told me to")
+
+Banana for scale because the internet told me to
 
 
