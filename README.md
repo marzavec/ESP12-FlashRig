@@ -33,9 +33,9 @@ I used 2 x 2mm pitch 2x12 24 pin flat IDC ribbon cable. Disassemble one cable & 
 
 ## Build Log
 
-![Version 1 Start](http://img.marzavec.com/ESP12-FlashRig-1-2.jpg "amidoingitrite-2.jpg")
+![Version 1 Start](http://img.marzavec.com/ESP12-FlashRig-1-2.jpg "amidoingitrite.jpg")
 
-amidoingitrite-2.jpg
+amidoingitrite.jpg
 
 
 ![Version 1 Ready](http://img.marzavec.com/ESP12-FlashRig-3-2.jpg "Aligned using lab grade popsicle stick lyka pro")
